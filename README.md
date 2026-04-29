@@ -198,11 +198,3 @@ jupyter notebook data-analysis/notebooks/
 
 ---
 
-## Contact
-
-**Manil Doudou** — A3 Computer Science Engineering, CESI Toulouse  
-[LinkedIn](https://linkedin.com/in/YOUR_HANDLE) · [GitHub](https://github.com/YOUR_USERNAME)
-
----
-
-*Internship completed at [Cavalons](https://www.cavalons.fr) · January–March 2026*
