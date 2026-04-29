@@ -143,7 +143,7 @@ The chatbot is strictly scoped to equestrian topics and will never attempt to di
 
 ---
 
-## Strategic Research (Weeks 9–10)
+## Strategic Research 
 
 Two research presentations were delivered to Cavalons leadership:
 
