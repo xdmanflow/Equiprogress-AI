@@ -11,7 +11,7 @@
 | Student          | Manil Doudou                               |
 | School           | CESI — Y3 Computer Science Engineering     |
 | Company          | Cavalons (Paris, Île-de-France, France)                   |
-| Period           | January 12 – March 8, 2026                |
+| Period           | January 12, 2026 – March 8, 2026                |
 | Company Tutor    | Ms. Camille Despesse (CEO)                |
 | Academic Tutor   | Mr. Wassim Masri                           |
 
