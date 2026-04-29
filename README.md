@@ -6,7 +6,8 @@
 
 ## Overview
 
-| | |
+----- 
+
 | **Student** | Manil Doudou |
 | **School** | CESI — Y3 Computer Science Engineering |
 | **Company** | Cavalons (Paris, France) |
