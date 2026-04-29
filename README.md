@@ -7,9 +7,8 @@
 ## Overview
 
 | | |
-|---|---|
 | **Student** | Manil Doudou |
-| **School** | CESI École d'Ingénieurs — A3 Computer Science Engineering (English) |
+| **School** | CESI — Y3 Computer Science Engineering |
 | **Company** | Cavalons (Paris, France) |
 | **Period** | January 12 – March 8, 2026 |
 | **Company Tutor** | Ms. Camille Despesse (CEO) |
