@@ -38,8 +38,8 @@ equiprogress-internship/
 │
 ├── docs/
 │   ├── reports/
-│   │   ├── Discovery_Report_Manil_Doudou.pdf        # Mid-internship report (week 4)
-│   │   └── Final_Report_Internship_Manil_Doudou.pdf # Full 10-week final report
+│   │   ├── Discovery_Report_Manil_Doudou.pdf         # Mid-internship report (week 4)
+│   │   └── Final_Report_Internship_Manil_Doudou.pdf  # Full 10-week final report
 │   └── analyses/
 │       ├── Comparatif_Appaloo_EKWO.pdf               # Comparative dataset analysis
 │       ├── Analyse_des_données_Cavalons.pdf          # Cavalons dataset deep-dive
@@ -48,16 +48,16 @@ equiprogress-internship/
 │
 ├── data-analysis/
 │   ├── notebooks/
-│   │   ├── cavalons_data_analysis.ipynb             # EDA on Cavalons horse dataset
-│   │   └── analyse_ekwo_db.ipynb                    # EDA on Ekwo training database
+│   │   ├── cavalons_data_analysis.ipynb              # EDA on Cavalons horse dataset
+│   │   └── analyse_ekwo_db.ipynb                     # EDA on Ekwo training database
 │   └── datasets/
-│       ├── chevaux_equiprogress.xlsx                # Horse profiles dataset
-│       ├── Excel_donnees_ekwo_final_uniforme.xlsx   # Standardized Ekwo data
-│       └── Excel_Chatbot_Cavalons.xlsx              # Chatbot knowledge base (Excel)
+│       ├── chevaux_equiprogress.xlsx                 # Horse profiles dataset
+│       ├── Excel_donnees_ekwo_final_uniforme.xlsx    # Standardized Ekwo data
+│       └── Excel_Chatbot_Cavalons.xlsx               # Chatbot knowledge base (Excel)
 │
 ├── chatbot/
 │   └── action-plan/
-│       └── Plan_action_Chatbot_Cavalons.docx        # Full chatbot development plan
+│       └── Plan_action_Chatbot_Cavalons.docx         # Full chatbot development plan
 │
 ├── research/
 │   └── Mission1_Agents_IA_Powerpoint.pptx            # Study of AI Agents (Mission 1)
