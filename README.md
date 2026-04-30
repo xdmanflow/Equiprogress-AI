@@ -34,7 +34,7 @@ My primary mission was to **design, build, and integrate the core AI chatbot** f
 ## Repository Structure
 
 ```
-equiprogress-internship/
+equiprogress-ai/
 │
 ├── docs/
 │   ├── reports/
