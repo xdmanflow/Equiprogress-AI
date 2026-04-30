@@ -55,7 +55,7 @@ equiprogress-internship/
 │       ├── Excel_donnees_ekwo_final_uniforme.xlsx    # Standardized Ekwo data
 │       └── Excel_Chatbot_Cavalons.xlsx               # Chatbot knowledge base (Excel)
 │
-├── chatbot/
+├── ai-chatbot/
 │   └── Plan_action_Chatbot_Cavalons.pdf              # Full chatbot development plan
 │
 ├── research/
