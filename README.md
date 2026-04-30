@@ -56,7 +56,7 @@ equiprogress-internship/
 │       └── Excel_Chatbot_Cavalons.xlsx               # Chatbot knowledge base (Excel)
 │
 ├── chatbot/
-│   └── Plan_action_Chatbot_Cavalons.docx             # Full chatbot development plan
+│   └── Plan_action_Chatbot_Cavalons.pdf              # Full chatbot development plan
 │
 ├── research/
 │   └── Mission1_Agents_IA_Powerpoint.pptx            # Study of AI Agents (Mission 1)
