@@ -41,10 +41,10 @@ equiprogress-internship/
 │   │   ├── Discovery_Report_Manil_Doudou.pdf        # Mid-internship report (week 4)
 │   │   └── Final_Report_Internship_Manil_Doudou.pdf # Full 10-week final report
 │   └── analyses/
-│       ├── Comparatif_Appaloo_EKWO.pdf              # Comparative dataset analysis
-│       ├── Analyse_des_données_Cavalons.docx         # Cavalons dataset deep-dive
-│       ├── Analyse_des_données_Ekwo.docx             # Ekwo dataset deep-dive
-│       └── Liste_des_base_de_données.docx            # Database inventory
+│       ├── Comparatif_Appaloo_EKWO.pdf               # Comparative dataset analysis
+│       ├── Analyse_des_données_Cavalons.pdf          # Cavalons dataset deep-dive
+│       ├── Analyse_des_données_Ekwo.pdf              # Ekwo dataset deep-dive
+│       └── Liste_des_base_de_données.pdf             # Database inventory
 │
 ├── data-analysis/
 │   ├── notebooks/
