@@ -60,8 +60,8 @@ equiprogress-internship/
 │       └── Plan_action_Chatbot_Cavalons.docx        # Full chatbot development plan
 │
 ├── research/
-│   └── Mission1_Agents_IA_Powerpoint.pptx      # Study of AI Agents (Mission 1)
-│   └── Mission2_Agents_IA_Powerpoint.pptx      # Study of AI Agents (Mission 2)
+│   └── Mission1_Agents_IA_Powerpoint.pptx            # Study of AI Agents (Mission 1)
+│   └── Mission2_Agents_IA_Powerpoint.pptx            # Study of AI Agents (Mission 2)
 │
 ├── requirements.txt                                  # Python dependencies
 ├── .gitignore
