@@ -1,4 +1,4 @@
-# ÉquiProgress AI — Internship at Cavalons
+# ÉquiProgress AI — Internship in AI/DS at Cavalons
 
 > **10-week engineering internship** at [Cavalons](https://www.cavalons.fr), a French equestrian tech startup, focused on designing and integrating an AI-powered coaching chatbot for the **ÉquiProgress** application.
 
